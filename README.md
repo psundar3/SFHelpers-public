@@ -1,2 +1,2 @@
 # SFHelpers-public
-1st project - fundamentals_class
+"In three words I can sum up everything I've learned about life: it goes on."
